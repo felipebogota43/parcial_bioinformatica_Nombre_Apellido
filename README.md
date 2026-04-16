@@ -1,0 +1,2 @@
+# parcial_bioinformatica_Nombre_Apellido
+Mi Parcial
